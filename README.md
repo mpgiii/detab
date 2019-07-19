@@ -2,7 +2,7 @@
 
 TO FUTURE STUDENTS: Please do not take this code and upload
 it as your own. The professors know you're doing this and it
-only hurts you. My program isn't even complete so it would
+only hurts you. This is an easy project so it would
 be silly to copy this.
 
 --
